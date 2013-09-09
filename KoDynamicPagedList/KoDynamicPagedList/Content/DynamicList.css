@@ -1,0 +1,103 @@
+﻿#dynamicList
+{
+    width: 100%;
+}
+
+#dynamicList a
+{
+    text-decoration: none;
+}
+
+#dynamicList a:visited
+{
+    color: inherit;
+}
+
+#dynamicList .ko-dl-table
+{
+    width: 100%;
+    text-align: center;
+}
+
+#dynamicList .ko-dl-paging-div
+{
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+}
+
+#dynamicList .ko-dl-table th
+{
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#dynamicList .ko-dl-table-td-clicable
+{
+    cursor: pointer;
+}
+
+#dynamicList .ko-dl-th-a-text
+{
+    margin-right: 5px;
+}
+
+#dynamicList .ko-dl-th-a-sort-img
+{
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: middle;
+}
+#dynamicList .ko-dl-th-a-sort-img-asc
+{
+}
+
+#dynamicList .ko-dl-th-a-sort-img-dsc
+{
+}
+
+
+#dynamicList .ko-dl-tr-ctrl
+{
+    width: 100%;
+    margin-top: 10px;
+}
+
+#dynamicList .ko-dl-td-ctrl
+{
+    width: 100%;
+}
+
+
+#dynamicList .ko-dl-ctrl-tr
+{
+    width: 100%;
+}
+
+#dynamicList .ko-dl-ctrl-table
+{
+    width: 100%;
+}
+
+#dynamicList tbody tr:nth-child(2n+1)
+{
+    background-color: #99ff99;
+}
+
+#dynamicList .ko-dl-ctrl-first-a-disabled
+{
+    visibility: hidden;
+}
+#dynamicList .ko-dl-ctrl-prev-a-disabled
+{
+    visibility: hidden;
+}
+#dynamicList .ko-dl-ctrl-next-a-disabled
+{
+    visibility: hidden;
+}
+#dynamicList .ko-dl-ctrl-last-a-disabled
+{
+    visibility: hidden;
+}
